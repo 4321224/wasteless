@@ -1,0 +1,16 @@
+[
+    {
+        "username" : "budiman99",
+        "email" : "budiman@gmail.com",
+        "password": "budi1234",
+        "phoneNumber" : "082188889999",
+        "address" : "Jalan kenangan No. 999"
+    },
+    {
+        "username" : "susiman88",
+        "email" : "susiman@gmail.com",
+        "password": "susi1234",
+        "phoneNumber" : "082199889988",
+        "address" : "Jalan mentok dikit belok kanan"
+    }
+]
